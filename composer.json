@@ -1,5 +1,5 @@
 {
-  "name": "Lapayo/tcpdi",
+  "name": "lapayo/tcpdi",
   "version": "1.0.0",
   "homepage": "https://github.com/Lapayo/tcpdi",
   "description": "PDF importer for TCPDF based on FPDI (supports optimized PDF 1.5+)",
